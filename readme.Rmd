@@ -1,0 +1,13 @@
+---
+title: "readme"
+author: Nicholas Mosca
+
+  
+date: "1/29/21"
+output: github document
+---
+
+```{R}
+# testing and creating a html file via knit
+
+```
